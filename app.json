@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "expo-language-test",
+    "name": "Testing Foreign Characters İ",
     "slug": "expo-language-test",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -15,9 +15,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -25,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.buraks.expolanguagetest"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
